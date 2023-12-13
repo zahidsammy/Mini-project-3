@@ -1,0 +1,49 @@
+mini project 3
+
+
+Packages I have installed 
+
+1- node.js
+2- express.js
+3- git commit 
+4- nodemon
+5- mongoose
+
+
+
+
+
+
+API Used
+1- Satelite API (https://isro.vercel.app/api/customer_satellites)
+
+
+
+
+Programming Language
+
+1- Javascript 
+
+
+
+
+Environment Used
+
+1- Node
+2- Express
+
+
+Database
+1- MongoDB
+
+
+
+API development platform
+1- Postman 
+
+
+
+Full Stack
+1- Only Back-end
+
+
