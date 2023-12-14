@@ -1,0 +1,18 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "b42d653f-221a-48f5-a69d-ea7fcf8d00f4",
+      "favorite": {
+        "name": "zahid",
+        "color": "color2"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      }
+    }
+  ]
+}
